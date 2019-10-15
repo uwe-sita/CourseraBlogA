@@ -22,6 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+2019-10-15 test insert from git-bash
+
 # CourseraBlogA
 Coursera course blog (A)
 (is this commit going to branch Assignment1 or to master?)
